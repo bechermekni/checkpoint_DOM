@@ -1,0 +1,19 @@
+.products_list{
+    border: solid black;
+    border-radius: 6px;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 150px;
+text-align: center;
+
+}
+.product_item{
+    width: 90%;
+    height: 25%;
+    margin: 2% 0%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
